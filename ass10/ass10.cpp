@@ -1,6 +1,4 @@
-//
-//  CIS 22B / Mega Putra / Assignment 10
-//  Compiler: Xcode on MacBookPro
+
 //
 //  Created by Mega Putra on 3/23/17.
 //  Copyright © 2017 Mega Putra. All rights reserved.
