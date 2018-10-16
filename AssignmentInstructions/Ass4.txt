@@ -1,0 +1,55 @@
+Assignment 4 - Spell Checker
+
+due 2/6
+
+The purpose of this assignment is to give you practice using dynamic memory allocation, c-string functions, sorting, and searching.  You will write a spell checking program and test it.
+Program Steps
+
+Read a dictionary word file into an array of c-strings.   You will need to dynamically allocate memory for each word in the dictionary.  The word file contains 23,907 words.
+Sort the dictionary.
+Reading in a test file, one line at a time.  Parse the line to get each individual word in the line.  Search the dictionary word list (the array of c-strings) for each word in the line.  If the word is not found, print a message.  The search should be performed as a binary search.
+Program Requirements
+
+Use these files for your dictionary and the final spell check test.
+Use an array of char pointers store your word file.  Allocate memory dynamically to store each word in a char array.  Store the dictionary words in lower case.
+Use a temporary char array to hold each line in the test file.  “Parse” each line into individual words for spell checking.  Note, you may not use the stringstream classes for this assignment.
+Spell checking must ignore case.  For example, “Hello” is the same as “hello”.
+Program Output
+
+Your output should looks quite similar to this:
+
+Misspelled word, struggled on  line 10
+Misspelled word, consecrated on  line 11
+Misspelled word, unfinished on  line 13
+Misspelled word, nobly on  line 14
+Misspelled word, advanced on  line 14
+...
+
+Program Hints
+
+Follow the program steps.  Write only one part of the program at a time.  Test each part before you proceed to the next step.  Do not continue if one part has a problem.  Ask for help with a step, if you can't get it to work.  Remember to allow plenty of time for this assignment.
+Use a small dictionary and a small test file initially as you are developing your code. 
+For your dictionary sort, you can "swap pointers" since you are working with an array of pointers.
+Use strtok() for the parsing of each line.
+Xcode users: There is a \r at the end of each line in the test file. You can suppress it by adding "\r" as a delimiter for strtok().
+Your program should find between 8 and 12 misspelled words.
+
+
+
+
+More Advice
+Assignment 4 Advice
+
+Perform each of the following steps.  Test after each step and make sure the code is correct.  Do not proceed without success in each step.
+
+Start with 2 small input files, 10 or 20 words for the "dictionary" and only "Four score and seven years ago" for the test file.
+Read the dictionary file and store the dictionary file into an array of c-strings. Make sure you store each word in lower case letters. Print out the array to make sure of this step. 
+Sort the array.  Print out the array to make sure of this step.  When you've completed this step, you can change your dictionary to the full size (23907 words).
+Read the test file that contains only one line into a c-string using the getline() function.  Print out the line.
+Use strtok to parse the line into separate words.  Convert the each word to lower case letters.  To test this, print each word on a separate line. 
+Add in the search function.  The search function should have 2 arguments, the dictionary array and one word.  It should return the indication of success or failure.  Test this function with "good" words and "bad" words.
+Now, change your input test file to the full Gettysburg address.  Write a loop with a line counter in which you
+read in each line
+parse the line into separate words
+"spell check" each word  
+Get ready to celebrate and watch the Superbowl.

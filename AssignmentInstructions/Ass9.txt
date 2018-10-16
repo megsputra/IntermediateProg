@@ -1,0 +1,93 @@
+Assignment 9 - Reference Counting and a Linked List
+
+due March 20th
+The assignment will give you practice writing constructors and destructors, overloaded operator functions, and implementing a linked list.  You will also employ a technique called reference counting.
+
+The Plan
+
+The goal of the assignment is to track a list of various (fruit) "items".  You will read and process a transaction file (partially displayed below).  The transaction file contains 5 types of transactions.  You are to store a count of the items in a sorted linked list.  
+
+Details
+
+The transaction file contains slightly over 100 random transaction entries.  The five transaction type entries are:
+add <item> - add the item to the inventory, or increase the count for that item 
+remove <item> - remove the item from the inventory, or decrease the count for that item.  If the item does not exist, print error message.
+print inventory - print the contents of the linked list (in sorted order) as shown below
+misspelled transactions (add, remove, or print may be misspelled) - print an error message, including the line number in the file
+blank lines - skip over these (but count the lines)
+Program Requirements
+
+You must write your own linked list.  You may not use any STL containers.
+The linked list must be maintained in sorted (alphabetical) order by the (fruit) item.
+The linked list node must contain the item name (fruit name) and a count of the number of that item that are added to the list..
+You must print out the contents of the linked list when a "print list" transaction record appears.  See sample output below.
+You must write at least 2 classes, a "node" class and a "linked list" class.  Both classes must contain constructors and the "linked list" class must have a destructor.
+You must include at least two overloaded operators as member functions.
+The print function of your "linked list" class must be implemented as an overloaded insertion operator function.
+Input File
+
+This is the first 32 records of the input file.
+
+add banana
+add pear
+add orange
+
+add orange
+add apple
+
+add peach
+add plum
+ad plum
+
+remove apple
+add watermelon
+add pear
+add plum
+reomve banana
+remove pear
+add apple
+remove orange
+remove plum
+add watermelon
+remove pear
+add papaya
+remove plum
+add papaya
+remove potato
+
+add banana
+add papaya
+remove watermelon
+print list
+remove banana
+remove watermelon
+...
+Get input file here
+Program Output
+
+Here is some partial output from the program.  
+
+Output
+Bad transaction: ad in line #10
+Bad transaction: reomve in line #16
+Unable to remove potato in line #26
+
+Item       Quantity
+apple          1
+banana         2
+orange         1
+papaya         3
+peach          1
+watermelon     1
+
+Bad transaction: prlnt in line #50
+
+Item       Quantity
+apple          2
+apricot        2
+banana         7
+orange         1
+papaya         4
+...
+
+This output shows the contents of the linked list after the first print list transaction (plus a few more lines). 

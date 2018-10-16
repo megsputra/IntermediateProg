@@ -1,0 +1,108 @@
+Assignment 8 - Your own String class with overloaded operators
+
+due March 13th
+The purpose of this assignment is to give you practice with constuctors, friend functions, static data members, static member functions and overloaded operators.
+Program Overview
+
+You are to write a String class with the necessary constructors and overloaded operator functions that makes use of the requisite main() function to produce the output below.
+Requirements
+
+The program will be tested using the main() listed below.
+The String class must contain:
+one non-static data member, a char* pointer.
+one static data member to keep a count of the number of a characters contained in all of the String objects in existence.
+3 constructors.  The default constuctor, a copy constructor and one other constructor.
+necessary overloaded operator functions
+a static member function that returns the number of a characters in all of the String objects in existence.
+a overloaded insertion operator friend function, used to print a String object.
+For this assignment you may NOT use the string class.
+The Required main() function
+
+int main()
+{
+    // Constructors
+    String A("apple");
+    String B("banana");
+    String C("cantaloupe");
+    String D(B);
+    String E;
+
+    // static member function
+    cout << "Number of a's = " << String::a_count() << endl << endl;
+
+    // Overloaded insertion operator
+    cout << "A = " << A << endl;
+    cout << "B = " << B << endl;
+    cout << "C = " << C << endl;
+    cout << "D = " << D << endl;
+    cout << "E = " << E << endl << endl;
+
+    // Relational operators
+    cout << boolalpha;
+    cout << "A < B " << (A < B) << endl;
+    cout << "B < A " << (B < A) << endl;
+    cout << "A == B " << (A == B) << endl << endl;
+
+    // Assignment operator
+    A = B;
+    cout << "A = " << A << endl;
+    cout << "A == B " << (A == B) << endl << endl;
+
+    // Size (bang) operator
+    cout << "A size = " << !A << endl;
+    cout << "E size = " << !E << endl << endl;
+
+    // Unary * operator
+    cout << "C text = " << *C << endl << endl;
+
+    // Plus operator
+    cout << "A + B = " << A + B << endl << endl;
+
+    // Plus equal operator
+    A += C;
+    cout << "A = " << A << endl << endl;
+
+    // Index operator
+    cout << "A[3] = " << A[3] << endl << endl;
+
+    // static member function
+    cout << "Number of a's = " << String::a_count() << endl;
+}
+
+Program Output
+
+Your output should look like the following.
+
+
+Number of a's = 9
+
+A = apple
+B = banana
+C = cantaloupe
+D = banana
+E =
+
+A < B true
+B < A false
+A == B false
+
+A = banana
+A == B true
+
+A size = 6
+E size = 0
+
+C text = cantaloupe
+
+A + B = bananabanana
+
+A = bananacantaloupe
+
+A[3] = a
+
+Number of a's = 13
+
+
+Program Hint
+
+Write and test one function at a time.  Perform thorough testing, not just the the required main().

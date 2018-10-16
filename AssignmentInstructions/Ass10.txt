@@ -1,0 +1,100 @@
+Assignment 10 - Polymorphic Quadrilaterals
+
+due March 27th
+This assignment will not be accepted late.
+This assignment will give you practice with inheritance and polymorphism.
+Create the following class hierarchy.
+
+
+
+Program Specifications
+
+The Quadrilateral class:
+must have 3 data members:  two sides of the quadrilateral (use type int) and the type of the quadrilateral (use type string)
+must contain two pure virtual function, area() and perimeter() 
+You must also create a non-friend overloaded insertion operator for printing the Quadrilateral.  It will produce the output shown below.
+The Rectangule, Square, and Rhombus classes should have no data members of their own.
+The Parallelogram class should have a height data member.
+The input file is shown below.  The format for this file will be a quadrilateral type name, followed by 1, 2, or 3 ints representing requisite data members of the class.  Specifically the data format will appear as:
+Quadrilateral	# of arguments	 Representing
+Rectangle	2	length and width (a and b)
+Square	1	side (a)
+Parallelogram	3	side, side, and height (a, b, h)
+Rhombus	2	side and height (a and h)
+
+Input file
+rectangle 7 4
+square 7
+parallelogram 6 4 3
+rhombus 7 4
+rectangle 6 4
+square 6
+parallelogram 6 4 2
+rhombus 7 3
+rectangle 5 4
+square 6
+parallelogram 6 4 3
+rhombus 9 5
+rhombus 10 3
+rectangle 19 10
+square 8
+parallelogram 7 5 3 
+rhombus 9 1
+rectangle 11 2
+Requirements
+
+Your program needs to perform the following tasks:
+Read in the data file, correctly processing each particular type of Quadrilateral.
+Your solution must implement polymorphism.
+You must use the main provided below.
+Your output should match the following.
+Program Output
+
+Rectangle:  sides 7 and 4  area=28  perimeter=22
+Square:  side 7  area=49  perimeter=28
+Parallelogram:  sides 6 and 4  area=18  perimeter=20
+Rhombus:  side 7  area=28  perimeter=28
+Rectangle:  sides 6 and 4  area=24  perimeter=20
+Square:  side 6  area=36  perimeter=24
+Parallelogram:  sides 6 and 4  area=12  perimeter=20
+Rhombus:  side 7  area=21  perimeter=28
+Rectangle:  sides 5 and 4  area=20  perimeter=18
+Square:  side 6  area=36  perimeter=24
+Parallelogram:  sides 6 and 4  area=18  perimeter=20
+Rhombus:  side 9  area=45  perimeter=36
+Rhombus:  side 10  area=30  perimeter=40
+Rectangle:  sides 19 and 10  area=190  perimeter=58
+Square:  side 8  area=64  perimeter=32
+Parallelogram:  sides 7 and 5  area=21  perimeter=24
+Rhombus:  side 9  area=9  perimeter=36
+Rectangle:  sides 11 and 2  area=22  perimeter=26
+
+Use this main():
+
+int main()
+{
+    const string filename = "c:/temp/ass10data.txt";   // use your filename here
+    ifstream fin(filename.c_str());
+    if (!fin)
+    {
+        cerr << "Unable to open " << filename << endl;
+        exit(1);
+    }
+    string buffer;
+    Quadrilateral* ptrQuad;
+    while (getline(fin,buffer))
+    {
+        // Process only valid input
+        if (buffer.size() > 1)
+        {
+            ptrQuad = createQuadrilateralFromString(buffer);
+            cout << *ptrQuad << endl;
+            delete ptrQuad;
+        }
+    }
+    fin.close();
+}
+
+You may need the following formulas for this assignment:
+
+

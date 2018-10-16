@@ -1,0 +1,165 @@
+Assignment 7 - Constructing the World Population
+
+due  Tuesday, March 7th
+The purpose of this assignment is to give you practice using constructors and destructors.
+Program Overview
+
+The goal of this assignment is to create a partial model of a population system, emulating the aging and dying of a population.
+Program Requirements
+
+Create the three classes described below.
+Use the main() function included below.
+Your output should look like that shown below.
+Class Descriptions
+
+The Date class is used to represent calendar dates.  As a minimum, the class must contain:
+3 unsigned int data members to represent month, day, and year
+a default constructor
+a constructor that takes 3 unsigned ints as arguments
+an increment function that adds 1 day to the Date.  The increment function will need to implement leap year logic.
+a function to determine an age.  For determining ages, you can assume that a year is 365.25 days long.
+a display() function that displays the Date in the mm/dd/yy format
+a letTimePass() function that adds a random number of days to a Date.  The random number should be between 1 and 365.  You will be using this function to add days to the (global) Today Date.  Hint:  you might use the random number to call the increment() function repeatedly.
+The Human class must contain at least:
+3 data members:
+string   name
+Date     birthday
+bool     alive
+a constructor:    human(const string& n, const Date& b)
+necessary accessor functions
+a function, age() that returns a Human’s age in years
+a die() function (you know what that means)
+a display() function
+The Population class must contain:
+Two data members:
+Human**   people
+unsigned    size
+A constructor
+A destructor
+A display() function
+An examinePopulation() function that takes a look at the population, calls the following rollTheDice() function for each “living” Human.  If rollTheDice() returns a number greater than .5, the Human should “die”.
+float rollTheDice(unsigned short age) 
+{
+    return static_cast<float>(age)*(rand()%100)/10000.;
+}
+Assumptions
+
+All humans were "born" on or after January 1, 1917.
+For the Date constructor with 3 unsigned int arguments between 0 and 99.  You may assume that a year argument > 16 is occurs is between 1917 and 1999 and a year argument < 17 is between 2000 and 2016.
+You may use the following global variables in your solution:
+Date TODAY;        // Make sure you define this after your define the Date class
+unsigned DaysPerMonth[13] = {0,31,28,31,30,31,30,31,31,30,31,30,31};
+const string NAMES[] =
+{
+    "Joshua","Kyle","Yuxi","Anthony","Michael","Samuel","Karlen","Seyed Nima",
+    "Mega","Tamuz","Ali","Ting","Khang","Quang","Rafael","David",
+    "Shenghao","Shealtiel","Johnny","Coriena","Minh Quan","Hong Yip","Robert",
+    "Yingqi","Manxin","Shun","Dekel","Yash","Shuo","Shiyu","Jiayi",
+    "Tristan","Carlo","Jason","Thao","Joe"
+};
+
+The main() function
+
+You are required to use this main():
+
+int main()
+{
+    const int OriginalPopulationSize = 36;
+
+    srand(time(NULL));
+    Population World(OriginalPopulationSize);
+    World.display();
+
+    // let time pass until half of the world's Population dies
+    do
+    {
+        TODAY.letTimePass();
+        World.examinePopulation();
+    }
+    while (World.getNumberLiving() > OriginalPopulationSize/2);
+
+    World.display();
+}
+Program Output
+
+Your output should look similar to the following.  
+
+-------------------------------------------------
+Today is 03/04/17
+Joshua was born on 01/13/96 is 21
+Kyle was born on 01/25/62 is 55
+Yuxi was born on 09/29/86 is 30
+Anthony was born on 09/28/02 is 14
+Michael was born on 12/22/74 is 42
+Samuel was born on 12/27/78 is 38
+Karlen was born on 08/30/46 is 70
+Seyed Nima was born on 12/07/36 is 80
+Mega was born on 08/17/36 is 80
+Tamuz was born on 06/10/53 is 63
+Ali was born on 07/01/38 is 78
+Ting was born on 04/09/41 is 75
+Khang was born on 05/22/00 is 16
+Quang was born on 07/09/31 is 85
+Rafael was born on 09/12/01 is 15
+David was born on 05/20/47 is 69
+Shenghao was born on 02/21/97 is 20
+Shealtiel was born on 04/08/73 is 43
+Johnny was born on 03/01/97 is 20
+Coriena was born on 06/12/35 is 81
+Minh Quan was born on 11/27/96 is 20
+Hong Yip was born on 07/15/71 is 45
+Robert was born on 07/10/82 is 34
+Yingqi was born on 12/13/40 is 76
+Manxin was born on 12/04/40 is 76
+Shun was born on 05/01/04 is 12
+Dekel was born on 08/20/73 is 43
+Yash was born on 02/26/29 is 88
+Shuo was born on 10/09/39 is 77
+Shiyu was born on 03/04/45 is 72
+Jiayi was born on 07/27/58 is 58
+Tristan was born on 08/20/88 is 28
+Carlo was born on 01/27/73 is 44
+Jason was born on 05/22/71 is 45
+Thao was born on 09/06/98 is 18
+Joe was born on 06/06/94 is 22
+-------------------------------------------------
+08/12/17 Karlen died at the age of 70
+08/12/17 Seyed Nima died at the age of 80
+08/12/17 Ali died at the age of 79
+08/12/17 David died at the age of 70
+08/12/17 Yingqi died at the age of 76
+08/12/17 Yash died at the age of 88
+08/12/17 Shiyu died at the age of 72
+09/08/17 Ting died at the age of 76
+09/08/17 Shuo died at the age of 77
+04/18/18 Tamuz died at the age of 64
+04/18/18 Quang died at the age of 86
+04/18/18 Coriena died at the age of 82
+04/18/18 Jiayi died at the age of 59
+11/16/18 Kyle died at the age of 56
+05/05/19 Mega died at the age of 82
+05/05/19 Manxin died at the age of 78
+08/07/27 Hong Yip died at the age of 56
+01/20/28 Jason died at the age of 56
+-------------------------------------------------
+Today is 01/20/28
+Joshua was born on 01/13/96 is 32
+Yuxi was born on 09/29/86 is 41
+Anthony was born on 09/28/02 is 25
+Michael was born on 12/22/74 is 53
+Samuel was born on 12/27/78 is 49
+Khang was born on 05/22/00 is 27
+Rafael was born on 09/12/01 is 26
+Shenghao was born on 02/21/97 is 30
+Shealtiel was born on 04/08/73 is 54
+Johnny was born on 03/01/97 is 30
+Minh Quan was born on 11/27/96 is 31
+Robert was born on 07/10/82 is 45
+Shun was born on 05/01/04 is 23
+Dekel was born on 08/20/73 is 54
+Tristan was born on 08/20/88 is 39
+Carlo was born on 01/27/73 is 54
+Thao was born on 09/06/98 is 29
+Joe was born on 06/06/94 is 33
+-------------------------------------------------
+

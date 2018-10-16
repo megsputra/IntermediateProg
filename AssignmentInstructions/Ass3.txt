@@ -1,0 +1,64 @@
+Assignment 3 - Student Grades Using a 2-Dimensional Array
+
+due January 30th
+
+The purpose of this assignment is the use of 2-dimensional arrays, reading and writing text files, writing functions, and program planning and development.
+
+You will read a data file and store all of the input data in a two dimensional array.  You will perform calculations on the data and store the results in the 2 dimensional array.  You will sort the array and print the results in a report.
+
+Instructions
+
+You will read in the same input file used in assignment 1, partially shown below. This 50 record file consists of a (8-digit numeric) student id, 10 assignment's points, midterm points, lab exercise points, final points, and CodeLab points. All of the input data, calculated totals, percents, and grades (and plus or minus) must be stored in only one 2 dimensional array.  The specifications for determination of the grades is the same as assignment 1 (or the course syllabus). Your output reports should be "very similar" to the output shown below.  The point totals, percents, and grades must be follow the exact calculations.  This is the same as assignment 1.  You are to produce two output reports, one sorted by student id and one sorted by total points (in decending order).  The two output reports must be written to separate files.
+
+The Student Data Input File
+
+ 99587442 40 11 12 18 10 15 11 19 14 15 19 57  93  4
+69376571 48 14 19 19 20 19 19 16 18 20  8 40  68  5
+83406759 46 16 18  4 14 16 19 20 12 14  7 57  71 10
+68507434 41 20 17 20 18 11 18 12 19  6 17 47  80  8
+68315319 50  6 14 19 19 19 18  9 16 17 20 53  81  9
+85868414 48 20 19 14 14 13 15 19 20 20 13 59  94  6
+01234567 48 16 20 14 18 14 18 16 15 15 16 57  85  8
+94349760 48 20 17 12 12 18 17 17 20  8  5 33  68  8
+...
+
+Output Report Sorted by Student Id
+
+Stdnt Id  Ex  -------- Assignments --------  Tot  Mi  Fin  CL  Pts  Pct  Gr
+--------  --  -----------------------------  ---  --  ---  --  ---  ---  --
+01234567  48  16 20 14 18 14 18 16 15 15 16  148  57   85   8  346   87  B 
+22879177  34  13 20 11 13 11 16 11 20 14 15  133  61   67   2  297   74  C 
+30587366  47  18 11 19 19  6 17 19 17 15 17  152  42   72   9  322   81  B-
+35998165  44  18 20 18 18 16 10 18 15 17 18  158  54   83   8  347   87  B 
+43719431  10  19 18 18 13 18 19 20 18 15 16  161  62   54   9  296   74  C 
+49402614  39   9 18 20 19  3 13 18 19 16  8  140  44   83   8  314   79  C+
+49727845  45  18 13  8 19 18  6 15 15 13 12  131  61   39   6  282   71  C-
+49743198  46   9 19 20 15  8 16 19 11 17 14  140  69   38   7  300   75  C 
+50139080  40  20 20 15 16 13 20  4 20 11  5  140  62   95   8  345   86  B 
+52266012  36  14 16 15 20 18 13 14 20 19  2  149  52   72   8  317   79  C+
+...
+
+Output Report Sorted by Total Points (decending) 
+
+Stdnt Id  Ex  -------- Assignments --------  Tot  Mi  Fin  CL  Pts  Pct  Gr
+--------  --  -----------------------------  ---  --  ---  --  ---  ---  --
+87654321  46  20 19 20 19 20 19 20 19 20 19  176  68   98   9  397   99  A+
+56724636  38  18 18 20 16 16 12 16 18 16 19  157  68   96   9  368   92  A 
+74974049  38  11 19 19 15 16 17 18 20 20 13  157  68   90  10  363   91  A-
+85868414  48  20 19 14 14 13 15 19 20 20 13  154  59   94   6  361   90  A-
+95864348  48  20  4 20 14 13 11 18 15 20 20  151  55   99   7  360   90  A-
+93729985  33  19 18 16 18 12 20  8 19 14 20  156  67   89   9  354   89  B+
+35998165  44  18 20 18 18 16 10 18 15 17 18  158  54   83   8  347   87  B 
+01234567  48  16 20 14 18 14 18 16 15 15 16  148  57   85   8  346   87  B 
+50139080  40  20 20 15 16 13 20  4 20 11  5  140  62   95   8  345   86  B 
+...
+Program requirements
+
+You must use a 2-dimensional array for all of the data.
+Your solution must include at least 5 functions.  And ...
+At least one function must include a two dimensional array argument.
+At least one function must include an argument that consists of one row of a two dimensional array.
+At least one function must include an argument that consists of one element of a two dimensional array.
+Place the function definitions below main() and function prototypes above main().
+All files must be checked for a successful open.
+Email only your source code.

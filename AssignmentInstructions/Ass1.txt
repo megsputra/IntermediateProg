@@ -1,0 +1,61 @@
+Assignment 1 - Student Grades Using File I/O and Arrays
+
+due January 16th
+
+The purpose of this assignment is to review the use of one-dimenisonal arrays, reading and writing text files, writing functions, and program planning and development.
+
+This program consist of two parts: 
+1) reading and processing a student data file, and writing the results to a student report file 
+2) modifying part 1 to calculate some statistics and writing them to another file. 
+For this assignment, you will be reading one input file and writing out two other files.
+
+You only need to email the source code.  It should generate the necessary output files.
+
+Part 1 Detail
+
+Read in the student data file, partially shown below. This 50 record file consists of a (8-digit numeric) student id, lab exercise points, 10 assignment's points, midterm points, final points, and CodeLab points. You must follow the syllabus specifications for the determination of the letter grades. You will write the input student data and the results of the processing into a student report file that looks "just like" the output shown below. In addition to the input student data, the report should contain the "total" of the assignment grades, the total and percent of all points achieved, and the letter grade.  You may assume that the input data file does not contain any errant data.
+
+The Student Data Input File
+
+99587442 40 11 12 18 10 15 11 19 14 15 19 57  93  4
+69376571 48 14 19 19 20 19 19 16 18 20  8 40  68  5
+83406759 46 16 18  4 14 16 19 20 12 14  7 57  71 10
+68507434 41 20 17 20 18 11 18 12 19  6 17 47  80  8
+68315319 50  6 14 19 19 19 18  9 16 17 20 53  81  9
+85868414 48 20 19 14 14 13 15 19 20 20 13 59  94  6
+01234567 48 16 20 14 18 14 18 16 15 15 16 57  85  8
+94349760 48 20 17 12 12 18 17 17 20  8  5 33  68  8
+...
+The Student Report Output File
+Stdnt Id  Ex  ------- Assignments ---------  Tot  Mi  Fin  CL  Pts  Pct  Gr
+--------  --  -----------------------------  ---  --  ---  --  ---  ---  --
+99587442  40  11 12 18 10 15 11 19 14 15 19  134  57   93   4  328   82  B 
+69376571  48  14 19 19 20 19 19 16 18 20  8  164  40   68   5  325   81  B-
+83406759  46  16 18  4 14 16 19 20 12 14  7  136  57   71  10  320   80  B-
+68507434  41  20 17 20 18 11 18 12 19  6 17  152  47   80   8  328   82  B 
+68315319  50   6 14 19 19 19 18  9 16 17 20  151  53   81   9  344   86  B 
+85868414  48  20 19 14 14 13 15 19 20 20 13  154  59   94   6  361   90  A-
+01234567  48  16 20 14 18 14 18 16 15 15 16  148  57   85   8  346   87  B 
+94349760  48  20 17 12 12 18 17 17 20  8  5  141  33   68   8  298   75  C 
+...
+Part 2 Detail
+
+Write a summary report file that contains the average percent of total points for all students. Also, display the number of A's, B's, C's, D's and F's for the students. Your summary output file should look something like this:
+
+Number of A's = ??
+Number of B's = ??
+Number of C's = ??
+Number of D's = ??
+Number of F's = ??
+Average percent = ??.?    <- 1 decimal place accuracy
+Maximum points = ???      <- This is the highest number of points achieved by any student
+Program requirements
+
+You must use at least 2 one-dimension arrays - one for the student's 10 assignment grades and one for all the student total percents.  Do not use 2 dimensional arrays - this will be covered in the another assignment.
+Your solution must include at least 4 functions, counting the main() function.  One function must include an array argument and at least one must include a "pass by reference".  Place the function definitions below main() and function prototypes above main().
+All files must be checked for a successful open.
+Make sure you write the student id with a leading 0, if appropriate (i.e. the 7th id).
+The percent of total points must be rounded to the nearest integer.  For example, 377 points is 94%, 378 points is 95% and 379 points is 95%.
+The letter grade is determined by the "integer" percent.  For example, 350 points becomes 88% becomes B+.
+Add headings to your output report file. They should be aligned and correctly identify the column data.
+Email your source code.  Your code will be checked for the output files.

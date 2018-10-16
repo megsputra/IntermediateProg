@@ -1,0 +1,87 @@
+Assignment 5 - Basketball, structs, and the string class
+
+due February 13th
+The purpose of this assignment is to give you practice using structs and the string class
+Program Steps
+
+Read a file containing team names, their conferences and divisions.  This data will be stored in an array of structs.
+Read a file containing scores.  Each record in the file must be parsed to determine the winning and losing team.  The number of wins, losses and percentage must be calculated using the data in the scores file.
+The array of structs must be sorted by conference, division, and percentage to produce output equivalent to that shown below.
+Program Requirements
+
+Use the input files, team name file and scores file.  Scores updated 2/7/17 (games played through 2/6/17)
+Use this struct to store the data for each team:
+struct NBA_Team 
+{
+    string name;
+    string conference;
+    string division;
+    unsigned short wins;
+    unsigned short losses;
+    float pct;
+};
+Use strings to store all character data for this assignment. C-strings may not be used in this assignment.
+The program output must show the current standings using the team input data and the percentage calculations.
+You may not use stringstream (or istringstream or ostringstream) objects or c-string functions for this assignment.
+Program Output
+
+Your output should look quite similar to the following.  Note: the actual statistics will be different when you use the current scores file.
+
+Output updated 2/7/17 (contains games played through 2/6/17)
+
+Western  Conference
+
+Southwest Division      W     L     Pct
+San Antonio Spurs      39    12   0.765
+Houston Rockets        37    17   0.685
+Memphis Grizzlies      32    22   0.593
+Dallas Mavericks       20    31   0.392
+New Orleans Pelicans   20    32   0.385
+
+Pacific   Division      W     L     Pct
+Golden State Warriors  43     8   0.843
+Los Angeles Clippers   31    21   0.596
+Sacramento Kings       20    32   0.385
+Los Angeles Lakers     18    36   0.333
+Phoenix Suns           16    36   0.308
+
+Northwest Division      W     L     Pct
+Utah Jazz              33    19   0.635
+Oklahoma City Thunder  30    23   0.566
+Denver Nuggets         23    28   0.451
+Portland Trail Blazers 22    30   0.423
+Minnesota Timberwolves 19    33   0.365
+
+Eastern  Conference
+
+Southeast Division      W     L     Pct
+Washington Wizards     30    21   0.588
+Atlanta Hawks          30    22   0.577
+Charlotte Hornets      23    28   0.451
+Miami Heat             22    30   0.423
+Orlando Magic          20    33   0.377
+
+Central   Division      W     L     Pct
+Cleveland Cavaliers    35    15   0.700
+Indiana Pacers         29    22   0.569
+Chicago Bulls          26    26   0.500
+Detroit Pistons        24    28   0.462
+Milwaukee Bucks        22    28   0.440
+
+Atlantic  Division      W     L     Pct
+Boston Celtics         33    18   0.647
+Toronto Raptors        32    21   0.604
+New York Knicks        22    31   0.415
+Philadelphia 76ers     18    33   0.353
+Brooklyn Nets           9    42   0.176
+
+
+Program Notes
+
+There are 30 NBA teams, 15 in each conference.  The conferences are Western and Eastern. There are 6 divisions with 5 teams in each division.
+The scores file will also require specific parsing techniques.  Skip over the date and time columns (the first 12 bytes).  Skip over the mostly blank records that show the tie score before overtime.
+To calculate the team percentage, use the formula:
+pct = wins / total games played
+To sort the data for the output standings, you might want to create a "sortkey" function, consisting of the conference, division, and percentage.  Then you can sort using the "sortkey".
+And finally, as usual, this assignment contains some subtle aspects.  Be sure to start early and allow enough time to ask the instructor for help.
+Recommendation, when you start, use a small subset of the scores file to make sure you are correctly calculating the statistics.

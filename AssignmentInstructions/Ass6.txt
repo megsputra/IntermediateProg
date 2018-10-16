@@ -1,0 +1,83 @@
+Assignment 6 - Mutual Fund Analysis with class
+
+due March 1st
+The purpose of this assignment is to give you practice using using classes.
+Program Overview
+
+In this assignment you will create a MutualFund class to hold data for two different mutual funds.  That includes the "ticker" and historical closing prices.  Your program will read and store the historical data for each mutual fund and then perform analysis on the fund.
+Program Requirements
+
+The historical input data may be found at these websites: VBMFX history and VTSMX history.  Change the Time Period to include the last 2 years, then click on Apply, then Download Data.  Rename the file after downloading.  You are to use this orginal source file as input to your program.  You may not modify the contents of the historical data source file.  This file will look like this:
+Date,Open,High,Low,Close,Volume,Adj Close
+2017-02-01,10.64,10.64,10.64,10.64,000,10.64
+2017-01-31,10.66,10.66,10.66,10.66,000,10.66
+2017-01-30,10.64,10.64,10.64,10.64,000,10.64
+2017-01-27,10.64,10.64,10.64,10.64,000,10.64
+2017-01-26,10.63,10.63,10.63,10.63,000,10.63
+2017-01-25,10.62,10.62,10.62,10.62,000,10.62
+2017-01-24,10.65,10.65,10.65,10.65,000,10.65
+2017-01-23,10.68,10.68,10.68,10.68,000,10.68
+2017-01-20,10.65,10.65,10.65,10.65,000,10.65
+2017-01-19,10.64,10.64,10.64,10.64,000,10.64
+2017-01-18,10.66,10.66,10.66,10.66,000,10.66
+...
+Your program must store data for the last 300 market days.  You are only required to store the Date and the Close price for each mutual fund.  
+You must use the following main() function in your solution:
+int main()
+{
+    MutualFund vbmfx;
+    vbmfx.assignTicker("VBMFX");
+    vbmfx.readHistoryFile("c:/temp/vbmfx.csv");
+    vbmfx.report();
+
+    MutualFund vtsmx;
+    vtsmx.assignTicker("VTSMX");
+    vtsmx.readHistoryFile("c:/temp/vtsmx.csv");
+    vtsmx.report();
+}
+You are to use the two mutual funds, VBMFX and VTSMX for your solution.
+The instructor may run your program using different dates to test your solution.
+You are expected to use best practices in your solution.  You may be penalized for abuses of this.  This means
+Handle file open errors
+Release dynamically allocated memory
+Write const member functions where appropriate
+Pass by refererence when appropriate
+Write neat, concise, reusable and clear code
+Program Output
+
+Your output should look quite similar to the following.  Note: the values will be different when you use current mutual fund history
+
+Output produced 2/2/17 (contains Mutual Fund data through 2/1/17)
+Fund: VBMFX
+Analysis Date: 02/01/17
+Latest Close: $10.64
+Minimum for the last year = $10.55
+Maximum for the last year = $11.18
+50 day moving average = $10.65
+200 day moving average = $10.92
+% gain over 200 Day Moving Avg: -2.5%
+Recommendation: Hold
+
+Fund: VTSMX
+Analysis Date: 02/01/17
+Latest Close: $57.14
+Minimum for the last year = $45.03
+Maximum for the last year = $57.65
+50 day moving average = $56.51
+200 day moving average = $53.92
+% gain over 200 Day Moving Avg: 6.0%
+Recommendation: Sell
+
+Program Notes
+
+The Analysis Date is the most recent date in your history data file.  Do not "hard code" this value.
+The Latest Close is the must recent Close in your history data file.
+The Minimum for the last year represents the minimum Close in the last year.  For example, if your Analysis Date is 2/24/17, then you must use the dates between 2/24/17 and 2/25/16 (inclusive) for your analysis.  Keep in mind that 2/25/16 may not be a market day.
+The Maximum for the last year will use the same rules as the Minimum for the last year.
+The 50 day moving average is the average over the last 50 market days.
+The 200 day moving average is the average over the last 200 market days.
+The % gain over 200 Day Moving Avg is the percent gain of the Lastest Close over the 200 day moving average.  
+The Recommendation uses the % gain over 200 Day Moving Avg.  The Recommendation is:
+Buy if the % Gain is < -3%, 
+Sell if the % Gain is > 3%, 
+otherwise Hold.
