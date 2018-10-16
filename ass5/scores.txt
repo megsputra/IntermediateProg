@@ -1,0 +1,825 @@
+06.02. 19:30 Sacramento Kings        Chicago Bulls           107,112
+06.02. 18:30 Memphis Grizzlies       San Antonio Spurs       89,74
+06.02. 18:00 Denver Nuggets          Dallas Mavericks        110,87
+06.02. 17:00 Minnesota Timberwolves  Miami Heat              113,115
+06.02. 17:00 New Orleans Pelicans    Phoenix Suns            111,106
+06.02. 16:30 Atlanta Hawks           Utah Jazz               95,120
+06.02. 16:30 Detroit Pistons         Philadelphia 76ers      113,96
+06.02. 16:30 Toronto Raptors         Los Angeles Clippers    118,109
+06.02. 16:00 Indiana Pacers          Oklahoma City Thunder   93,90
+06.02. 16:00 New York Knicks         Los Angeles Lakers      107,121
+06.02. 16:00 Washington Wizards      Cleveland Cavaliers     135,140
+                                                             (120,120)
+05.02. 12:00 Oklahoma City Thunder   Portland Trail Blazers  105,99
+05.02. 11:00 Boston Celtics          Los Angeles Clippers    107,102
+05.02. 09:00 Brooklyn Nets           Toronto Raptors         95,103
+04.02. 19:30 Sacramento Kings        Golden State Warriors   109,106
+                                                             (98,98)
+04.02. 18:00 Minnesota Timberwolves  Memphis Grizzlies       99,107
+04.02. 18:00 Phoenix Suns            Milwaukee Bucks         112,137
+04.02. 18:00 San Antonio Spurs       Denver Nuggets          121,97
+04.02. 18:00 Utah Jazz               Charlotte Hornets       105,98
+04.02. 17:30 New York Knicks         Cleveland Cavaliers     104,111
+04.02. 16:30 Miami Heat              Philadelphia 76ers      125,102
+04.02. 16:00 Atlanta Hawks           Orlando Magic           113,86
+04.02. 16:00 Indiana Pacers          Detroit Pistons         105,84
+04.02. 16:00 Washington Wizards      New Orleans Pelicans    105,91
+03.02. 19:30 Portland Trail Blazers  Dallas Mavericks        104,108
+03.02. 19:30 Sacramento Kings        Phoenix Suns            103,105
+03.02. 18:00 Denver Nuggets          Milwaukee Bucks         121,117
+03.02. 17:00 Boston Celtics          Los Angeles Lakers      113,107
+03.02. 17:00 Houston Rockets         Chicago Bulls           121,117
+                                                             (108,108)
+03.02. 17:00 Oklahoma City Thunder   Memphis Grizzlies       114,102
+03.02. 16:30 Brooklyn Nets           Indiana Pacers          97,106
+03.02. 16:30 Detroit Pistons         Minnesota Timberwolves  116,108
+03.02. 16:00 Orlando Magic           Toronto Raptors         102,94
+02.02. 19:30 Los Angeles Clippers    Golden State Warriors   120,133
+02.02. 17:30 San Antonio Spurs       Philadelphia 76ers      102,86
+02.02. 17:00 Houston Rockets         Atlanta Hawks           108,113
+02.02. 16:00 Washington Wizards      Los Angeles Lakers      116,108
+01.02. 19:30 Golden State Warriors   Charlotte Hornets       126,111
+01.02. 18:30 Oklahoma City Thunder   Chicago Bulls           100,128
+01.02. 18:00 Denver Nuggets          Memphis Grizzlies       99,119
+01.02. 18:00 Phoenix Suns            Los Angeles Clippers    114,124
+01.02. 18:00 Utah Jazz               Milwaukee Bucks         104,88
+01.02. 17:30 Dallas Mavericks        Philadelphia 76ers      113,95
+01.02. 16:30 Boston Celtics          Toronto Raptors         109,104
+01.02. 16:30 Brooklyn Nets           New York Knicks         90,95
+01.02. 16:30 Detroit Pistons         New Orleans Pelicans    118,98
+01.02. 16:30 Miami Heat              Atlanta Hawks           116,93
+01.02. 16:00 Cleveland Cavaliers     Minnesota Timberwolves  125,97
+01.02. 16:00 Orlando Magic           Indiana Pacers          88,98
+31.01. 19:30 Los Angeles Lakers      Denver Nuggets          120,116
+31.01. 19:00 Portland Trail Blazers  Charlotte Hornets       115,98
+31.01. 17:30 San Antonio Spurs       Oklahoma City Thunder   108,94
+31.01. 17:00 Houston Rockets         Sacramento Kings        105,83
+31.01. 16:00 Toronto Raptors         New Orleans Pelicans    108,106
+                                                             (96,96)
+31.01. 16:00 Washington Wizards      New York Knicks         117,101
+30.01. 19:30 Phoenix Suns            Memphis Grizzlies       96,115
+30.01. 17:30 Dallas Mavericks        Cleveland Cavaliers     104,97
+30.01. 17:00 Boston Celtics          Detroit Pistons         113,109
+30.01. 17:00 Minnesota Timberwolves  Orlando Magic           111,105
+                                                             (98,98)
+30.01. 16:30 Miami Heat              Brooklyn Nets           104,96
+30.01. 15:00 Philadelphia 76ers      Sacramento Kings        122,119
+29.01. 18:00 Portland Trail Blazers  Golden State Warriors   111,113
+29.01. 16:00 Chicago Bulls           Philadelphia 76ers      121,108
+29.01. 16:00 San Antonio Spurs       Dallas Mavericks        101,105
+29.01. 15:00 Indiana Pacers          Houston Rockets         120,101
+29.01. 15:00 New Orleans Pelicans    Washington Wizards      94,107
+29.01. 15:00 Toronto Raptors         Orlando Magic           113,114
+29.01. 12:30 Cleveland Cavaliers     Oklahoma City Thunder   107,91
+29.01. 12:00 Atlanta Hawks           New York Knicks         142,139
+                                                             (104,104)
+28.01. 18:00 Minnesota Timberwolves  Brooklyn Nets           129,109
+28.01. 18:00 Phoenix Suns            Denver Nuggets          112,123
+28.01. 18:00 Utah Jazz               Memphis Grizzlies       95,102
+28.01. 17:30 Golden State Warriors   Los Angeles Clippers    144,98
+28.01. 17:00 Milwaukee Bucks         Boston Celtics          108,112
+                                                             (102,102)
+28.01. 16:30 Miami Heat              Detroit Pistons         116,103
+28.01. 16:00 Charlotte Hornets       Sacramento Kings        106,109
+27.01. 19:00 Portland Trail Blazers  Memphis Grizzlies       112,109
+27.01. 17:00 Atlanta Hawks           Washington Wizards      86,112
+27.01. 17:00 Chicago Bulls           Miami Heat              88,100
+27.01. 17:00 New Orleans Pelicans    San Antonio Spurs       119,103
+27.01. 17:00 Philadelphia 76ers      Houston Rockets         118,123
+27.01. 16:30 Boston Celtics          Orlando Magic           128,98
+27.01. 16:30 Cleveland Cavaliers     Brooklyn Nets           124,116
+27.01. 16:30 New York Knicks         Charlotte Hornets       110,107
+27.01. 16:30 Toronto Raptors         Milwaukee Bucks         102,86
+27.01. 16:00 Indiana Pacers          Sacramento Kings        115,111
+                                                             (104,104)
+26.01. 19:30 Utah Jazz               Los Angeles Lakers      96,88
+26.01. 18:00 Denver Nuggets          Phoenix Suns            127,120
+26.01. 17:00 Minnesota Timberwolves  Indiana Pacers          103,109
+26.01. 17:00 Oklahoma City Thunder   Dallas Mavericks        109,98
+25.01. 19:30 Portland Trail Blazers  Los Angeles Lakers      105,98
+25.01. 17:30 Dallas Mavericks        New York Knicks         103,95
+25.01. 17:00 Charlotte Hornets       Golden State Warriors   103,113
+25.01. 17:00 Chicago Bulls           Atlanta Hawks           114,119
+25.01. 17:00 Memphis Grizzlies       Toronto Raptors         101,99
+25.01. 17:00 Milwaukee Bucks         Philadelphia 76ers      109,114
+25.01. 17:00 New Orleans Pelicans    Oklahoma City Thunder   105,114
+25.01. 16:30 Boston Celtics          Houston Rockets         120,109
+25.01. 16:30 Brooklyn Nets           Miami Heat              106,109
+25.01. 16:00 Cleveland Cavaliers     Sacramento Kings        112,116
+                                                             (104,104)
+24.01. 18:00 Denver Nuggets          Utah Jazz               103,93
+24.01. 18:00 Phoenix Suns            Minnesota Timberwolves  111,112
+24.01. 16:00 Orlando Magic           Chicago Bulls           92,100
+24.01. 16:00 Philadelphia 76ers      Los Angeles Clippers    121,110
+24.01. 16:00 Toronto Raptors         San Antonio Spurs       106,108
+24.01. 16:00 Washington Wizards      Boston Celtics          123,108
+23.01. 18:00 Utah Jazz               Oklahoma City Thunder   95,97
+23.01. 17:00 Indiana Pacers          New York Knicks         103,109
+23.01. 17:00 Milwaukee Bucks         Houston Rockets         127,114
+23.01. 17:00 New Orleans Pelicans    Cleveland Cavaliers     124,122
+23.01. 16:30 Atlanta Hawks           Los Angeles Clippers    105,115
+23.01. 16:30 Brooklyn Nets           San Antonio Spurs       86,112
+23.01. 16:30 Detroit Pistons         Sacramento Kings        104,109
+23.01. 16:30 Miami Heat              Golden State Warriors   105,102
+23.01. 16:00 Charlotte Hornets       Washington Wizards      99,109
+22.01. 16:00 Minnesota Timberwolves  Denver Nuggets          111,108
+22.01. 15:00 Toronto Raptors         Phoenix Suns            103,115
+22.01. 12:30 Dallas Mavericks        Los Angeles Lakers      122,73
+22.01. 09:00 Orlando Magic           Golden State Warriors   98,118
+21.01. 18:00 Chicago Bulls           Sacramento Kings        102,99
+21.01. 18:00 Denver Nuggets          Los Angeles Clippers    123,98
+21.01. 18:00 Utah Jazz               Indiana Pacers          109,100
+21.01. 17:30 Cleveland Cavaliers     San Antonio Spurs       115,118
+                                                             (107,107)
+21.01. 17:00 Memphis Grizzlies       Houston Rockets         95,119
+21.01. 16:30 Miami Heat              Milwaukee Bucks         109,97
+21.01. 16:30 New York Knicks         Phoenix Suns            105,107
+21.01. 16:00 Atlanta Hawks           Philadelphia 76ers      110,93
+21.01. 16:00 Charlotte Hornets       Brooklyn Nets           112,105
+21.01. 15:00 Detroit Pistons         Washington Wizards      113,112
+21.01. 14:00 Boston Celtics          Portland Trail Blazers  123,127
+                                                             (113,113)
+20.01. 19:30 Los Angeles Lakers      Indiana Pacers          108,96
+20.01. 17:30 Dallas Mavericks        Utah Jazz               107,112
+                                                             (98,98)
+20.01. 17:00 Atlanta Hawks           Chicago Bulls           102,93
+20.01. 17:00 Houston Rockets         Golden State Warriors   108,125
+20.01. 17:00 Memphis Grizzlies       Sacramento Kings        107,91
+20.01. 17:00 New Orleans Pelicans    Brooklyn Nets           114,143
+20.01. 16:00 Charlotte Hornets       Toronto Raptors         113,78
+20.01. 16:00 Orlando Magic           Milwaukee Bucks         112,96
+20.01. 16:00 Philadelphia 76ers      Portland Trail Blazers  93,92
+19.01. 19:30 Los Angeles Clippers    Minnesota Timberwolves  101,104
+19.01. 17:30 San Antonio Spurs       Denver Nuggets          118,104
+19.01. 17:00 New York Knicks         Washington Wizards      110,113
+19.01. 16:30 Miami Heat              Dallas Mavericks        99,95
+19.01. 16:00 Cleveland Cavaliers     Phoenix Suns            118,103
+18.01. 19:30 Golden State Warriors   Oklahoma City Thunder   121,100
+18.01. 19:30 Sacramento Kings        Indiana Pacers          100,106
+18.01. 17:00 Detroit Pistons         Atlanta Hawks           118,95
+18.01. 17:00 Houston Rockets         Milwaukee Bucks         111,92
+18.01. 17:00 New Orleans Pelicans    Orlando Magic           118,98
+18.01. 16:30 Boston Celtics          New York Knicks         106,117
+18.01. 16:00 Charlotte Hornets       Portland Trail Blazers  107,85
+18.01. 16:00 Philadelphia 76ers      Toronto Raptors         94,89
+18.01. 16:00 Washington Wizards      Memphis Grizzlies       104,101
+17.01. 19:30 Los Angeles Lakers      Denver Nuggets          121,127
+17.01. 17:30 San Antonio Spurs       Minnesota Timberwolves  122,114
+17.01. 17:00 Chicago Bulls           Dallas Mavericks        98,99
+17.01. 16:30 Brooklyn Nets           Toronto Raptors         109,119
+17.01. 16:30 Miami Heat              Houston Rockets         109,103
+16.01. 19:30 Los Angeles Clippers    Oklahoma City Thunder   120,98
+16.01. 18:00 Phoenix Suns            Utah Jazz               101,106
+16.01. 17:00 Golden State Warriors   Cleveland Cavaliers     126,91
+16.01. 16:30 Boston Celtics          Charlotte Hornets       108,98
+16.01. 14:00 Denver Nuggets          Orlando Magic           125,112
+16.01. 13:00 Indiana Pacers          New Orleans Pelicans    98,95
+16.01. 12:30 Milwaukee Bucks         Philadelphia 76ers      104,113
+16.01. 11:00 Washington Wizards      Portland Trail Blazers  120,101
+16.01. 10:00 New York Knicks         Atlanta Hawks           107,108
+15.01. 18:30 Los Angeles Lakers      Detroit Pistons         97,102
+15.01. 18:00 Memphis Grizzlies       Chicago Bulls           104,108
+15.01. 18:00 Sacramento Kings        Oklahoma City Thunder   118,122
+15.01. 15:00 Brooklyn Nets           Houston Rockets         112,137
+15.01. 12:00 Atlanta Hawks           Milwaukee Bucks         111,98
+15.01. 12:00 Toronto Raptors         New York Knicks         116,101
+15.01. 11:00 Dallas Mavericks        Minnesota Timberwolves  98,87
+14.01. 18:00 Utah Jazz               Orlando Magic           114,107
+14.01. 17:00 Washington Wizards      Philadelphia 76ers      109,93
+14.01. 15:00 Phoenix Suns            San Antonio Spurs       108,105
+14.01. 14:00 Chicago Bulls           New Orleans Pelicans    107,99
+14.01. 12:30 Los Angeles Clippers    Los Angeles Lakers      113,97
+13.01. 19:30 Sacramento Kings        Cleveland Cavaliers     108,120
+13.01. 19:30 Utah Jazz               Detroit Pistons         110,77
+13.01. 19:00 Portland Trail Blazers  Orlando Magic           109,115
+13.01. 17:00 Atlanta Hawks           Boston Celtics          101,103
+13.01. 17:00 Houston Rockets         Memphis Grizzlies       105,110
+13.01. 17:00 Milwaukee Bucks         Miami Heat              116,108
+13.01. 17:00 Minnesota Timberwolves  Oklahoma City Thunder   96,86
+13.01. 16:30 Toronto Raptors         Brooklyn Nets           132,113
+13.01. 16:00 Philadelphia 76ers      Charlotte Hornets       102,93
+12.01. 19:30 Golden State Warriors   Detroit Pistons         127,107
+12.01. 19:00 Phoenix Suns            Dallas Mavericks        108,113
+12.01. 17:30 San Antonio Spurs       Los Angeles Lakers      134,94
+12.01. 17:00 New York Knicks         Chicago Bulls           104,89
+12.01. 16:30 Brooklyn Nets           New Orleans Pelicans    95,104
+12.01. 12:00 Denver Nuggets          Indiana Pacers          140,112
+11.01. 19:30 Los Angeles Clippers    Orlando Magic           105,96
+11.01. 19:30 Portland Trail Blazers  Cleveland Cavaliers     102,86
+11.01. 17:00 Boston Celtics          Washington Wizards      117,108
+11.01. 17:00 Minnesota Timberwolves  Houston Rockets         119,105
+11.01. 17:00 Oklahoma City Thunder   Memphis Grizzlies       103,95
+11.01. 16:00 Philadelphia 76ers      New York Knicks         98,97
+10.01. 19:30 Golden State Warriors   Miami Heat              107,95
+10.01. 19:30 Los Angeles Lakers      Portland Trail Blazers  87,108
+10.01. 19:30 Sacramento Kings        Detroit Pistons         100,94
+10.01. 18:00 Utah Jazz               Cleveland Cavaliers     100,92
+10.01. 17:30 San Antonio Spurs       Milwaukee Bucks         107,109
+10.01. 17:00 Houston Rockets         Charlotte Hornets       121,114
+10.01. 16:30 Brooklyn Nets           Atlanta Hawks           97,117
+10.01. 16:30 Toronto Raptors         Boston Celtics          114,106
+10.01. 16:00 Washington Wizards      Chicago Bulls           101,99
+09.01. 17:00 Chicago Bulls           Oklahoma City Thunder   94,109
+09.01. 17:00 Minnesota Timberwolves  Dallas Mavericks        101,92
+09.01. 16:30 New York Knicks         New Orleans Pelicans    96,110
+08.01. 18:30 Los Angeles Lakers      Orlando Magic           111,95
+08.01. 18:00 Portland Trail Blazers  Detroit Pistons         124,125
+                                                             (106,106)
+08.01. 18:00 Sacramento Kings        Golden State Warriors   106,117
+08.01. 17:30 Phoenix Suns            Cleveland Cavaliers     116,120
+08.01. 17:00 Memphis Grizzlies       Utah Jazz               88,79
+08.01. 15:00 Toronto Raptors         Houston Rockets         122,129
+08.01. 12:30 Los Angeles Clippers    Miami Heat              98,86
+08.01. 11:00 Milwaukee Bucks         Washington Wizards      101,107
+08.01. 09:00 Brooklyn Nets           Philadelphia 76ers      95,105
+07.01. 17:30 Dallas Mavericks        Atlanta Hawks           82,97
+07.01. 17:30 San Antonio Spurs       Charlotte Hornets       102,85
+07.01. 17:00 Chicago Bulls           Toronto Raptors         123,118
+                                                             (107,107)
+07.01. 17:00 Minnesota Timberwolves  Utah Jazz               92,94
+07.01. 17:00 Oklahoma City Thunder   Denver Nuggets          121,106
+07.01. 16:30 Boston Celtics          New Orleans Pelicans    117,108
+07.01. 16:00 Indiana Pacers          New York Knicks         123,109
+06.01. 19:30 Golden State Warriors   Memphis Grizzlies       119,128
+                                                             (111,111)
+06.01. 19:30 Los Angeles Lakers      Miami Heat              127,100
+06.01. 19:30 Sacramento Kings        Los Angeles Clippers    98,106
+06.01. 17:00 Milwaukee Bucks         New York Knicks         111,116
+06.01. 16:30 Boston Celtics          Philadelphia 76ers      110,106
+06.01. 16:30 Brooklyn Nets           Cleveland Cavaliers     108,116
+06.01. 16:00 Orlando Magic           Houston Rockets         93,100
+06.01. 16:00 Washington Wizards      Minnesota Timberwolves  112,105
+05.01. 19:30 Portland Trail Blazers  Los Angeles Lakers      118,109
+05.01. 18:00 Denver Nuggets          San Antonio Spurs       99,127
+05.01. 17:30 Dallas Mavericks        Phoenix Suns            95,102
+05.01. 17:00 Houston Rockets         Oklahoma City Thunder   118,116
+05.01. 17:00 New Orleans Pelicans    Atlanta Hawks           94,99
+05.01. 16:30 Detroit Pistons         Charlotte Hornets       115,114
+05.01. 16:30 Toronto Raptors         Utah Jazz               101,93
+05.01. 16:00 Indiana Pacers          Brooklyn Nets           121,109
+04.01. 19:30 Golden State Warriors   Portland Trail Blazers  125,117
+04.01. 19:30 Los Angeles Clippers    Memphis Grizzlies       115,106
+04.01. 19:30 Sacramento Kings        Miami Heat              102,107
+04.01. 17:00 Cleveland Cavaliers     Chicago Bulls           94,106
+04.01. 16:30 New York Knicks         Milwaukee Bucks         104,105
+04.01. 16:00 Charlotte Hornets       Oklahoma City Thunder   123,112
+04.01. 16:00 Orlando Magic           Atlanta Hawks           92,111
+03.01. 19:30 Los Angeles Lakers      Memphis Grizzlies       116,102
+03.01. 18:00 Denver Nuggets          Sacramento Kings        113,120
+03.01. 18:00 Phoenix Suns            Miami Heat              99,90
+03.01. 17:30 Dallas Mavericks        Washington Wizards      113,105
+03.01. 17:30 San Antonio Spurs       Toronto Raptors         110,82
+03.01. 16:30 Boston Celtics          Utah Jazz               115,104
+03.01. 16:30 Detroit Pistons         Indiana Pacers          116,121
+03.01. 16:00 Philadelphia 76ers      Minnesota Timberwolves  93,91
+02.01. 19:30 Golden State Warriors   Denver Nuggets          127,119
+02.01. 19:30 Los Angeles Clippers    Phoenix Suns            109,98
+02.01. 17:00 Chicago Bulls           Charlotte Hornets       118,111
+02.01. 17:00 Houston Rockets         Washington Wizards      101,91
+02.01. 16:30 Brooklyn Nets           Utah Jazz               89,101
+02.01. 16:30 New York Knicks         Orlando Magic           103,115
+02.01. 16:00 Cleveland Cavaliers     New Orleans Pelicans    90,82
+02.01. 16:00 Milwaukee Bucks         Oklahoma City Thunder   98,94
+01.01. 18:30 Los Angeles Lakers      Toronto Raptors         114,123
+01.01. 16:00 Minnesota Timberwolves  Portland Trail Blazers  89,95
+01.01. 15:00 Atlanta Hawks           San Antonio Spurs       114,112
+                                                             (100,100)
+01.01. 15:00 Indiana Pacers          Orlando Magic           117,104
+01.01. 15:00 Miami Heat              Detroit Pistons         98,107
+31.12. 17:00 Houston Rockets         New York Knicks         129,122
+31.12. 17:00 Oklahoma City Thunder   Los Angeles Clippers    114,88
+31.12. 17:00 Utah Jazz               Phoenix Suns            91,86
+31.12. 16:00 Charlotte Hornets       Cleveland Cavaliers     109,121
+31.12. 16:00 Chicago Bulls           Milwaukee Bucks         96,116
+31.12. 14:10 Sacramento Kings        Memphis Grizzlies       98,112
+30.12. 19:30 Golden State Warriors   Dallas Mavericks        108,99
+30.12. 18:00 Denver Nuggets          Philadelphia 76ers      122,124
+30.12. 17:30 San Antonio Spurs       Portland Trail Blazers  110,94
+30.12. 17:00 Atlanta Hawks           Detroit Pistons         105,98
+30.12. 17:00 Houston Rockets         Los Angeles Clippers    140,116
+30.12. 17:00 Minnesota Timberwolves  Milwaukee Bucks         116,99
+30.12. 17:00 New Orleans Pelicans    New York Knicks         104,92
+30.12. 16:30 Boston Celtics          Miami Heat              117,114
+30.12. 16:00 Washington Wizards      Brooklyn Nets           118,95
+30.12. 13:00 Indiana Pacers          Chicago Bulls           111,101
+29.12. 19:30 Los Angeles Lakers      Dallas Mavericks        89,101
+29.12. 18:00 Phoenix Suns            Toronto Raptors         99,91
+29.12. 18:00 Utah Jazz               Philadelphia 76ers      100,83
+29.12. 17:00 Cleveland Cavaliers     Boston Celtics          124,118
+29.12. 17:00 Memphis Grizzlies       Oklahoma City Thunder   114,80
+29.12. 16:00 Charlotte Hornets       Miami Heat              91,82
+28.12. 19:30 Golden State Warriors   Toronto Raptors         121,111
+28.12. 19:00 Portland Trail Blazers  Sacramento Kings        102,89
+28.12. 18:00 Denver Nuggets          Minnesota Timberwolves  105,103
+28.12. 17:30 San Antonio Spurs       Phoenix Suns            119,98
+28.12. 17:00 Chicago Bulls           Brooklyn Nets           101,99
+28.12. 17:00 New Orleans Pelicans    Los Angeles Clippers    102,98
+28.12. 16:30 Atlanta Hawks           New York Knicks         102,98
+                                                             (85,85)
+28.12. 16:30 Detroit Pistons         Milwaukee Bucks         94,119
+28.12. 16:00 Orlando Magic           Charlotte Hornets       101,120
+28.12. 16:00 Washington Wizards      Indiana Pacers          111,105
+27.12. 19:30 Los Angeles Lakers      Utah Jazz               100,102
+27.12. 17:30 Dallas Mavericks        Houston Rockets         107,123
+27.12. 16:30 Boston Celtics          Memphis Grizzlies       113,103
+27.12. 16:30 Miami Heat              Oklahoma City Thunder   94,106
+26.12. 19:30 Los Angeles Clippers    Denver Nuggets          102,106
+26.12. 19:30 Sacramento Kings        Philadelphia 76ers      102,100
+26.12. 19:00 Portland Trail Blazers  Toronto Raptors         91,95
+26.12. 17:00 Chicago Bulls           Indiana Pacers          90,85
+26.12. 17:00 Houston Rockets         Phoenix Suns            131,115
+26.12. 17:00 Minnesota Timberwolves  Atlanta Hawks           104,90
+26.12. 17:00 New Orleans Pelicans    Dallas Mavericks        111,104
+26.12. 16:30 Brooklyn Nets           Charlotte Hornets       120,118
+26.12. 16:30 Detroit Pistons         Cleveland Cavaliers     106,90
+26.12. 16:00 Orlando Magic           Memphis Grizzlies       112,102
+26.12. 16:00 Washington Wizards      Milwaukee Bucks         107,102
+25.12. 19:30 Los Angeles Lakers      Los Angeles Clippers    111,102
+25.12. 17:00 Oklahoma City Thunder   Minnesota Timberwolves  112,100
+25.12. 14:00 San Antonio Spurs       Chicago Bulls           119,100
+25.12. 11:30 Cleveland Cavaliers     Golden State Warriors   109,108
+25.12. 09:00 New York Knicks         Boston Celtics          114,119
+23.12. 19:30 Los Angeles Clippers    Dallas Mavericks        88,90
+23.12. 19:00 Portland Trail Blazers  San Antonio Spurs       90,110
+23.12. 18:00 Denver Nuggets          Atlanta Hawks           108,109
+23.12. 18:00 Phoenix Suns            Philadelphia 76ers      123,116
+23.12. 18:00 Utah Jazz               Toronto Raptors         98,104
+23.12. 17:00 Memphis Grizzlies       Houston Rockets         115,109
+23.12. 17:00 Milwaukee Bucks         Washington Wizards      123,96
+23.12. 17:00 Minnesota Timberwolves  Sacramento Kings        105,109
+23.12. 17:00 New Orleans Pelicans    Miami Heat              91,87
+23.12. 16:30 Boston Celtics          Oklahoma City Thunder   112,117
+23.12. 16:30 Cleveland Cavaliers     Brooklyn Nets           119,99
+23.12. 16:30 Detroit Pistons         Golden State Warriors   113,119
+23.12. 16:00 Charlotte Hornets       Chicago Bulls           103,91
+23.12. 16:00 Orlando Magic           Los Angeles Lakers      109,90
+22.12. 19:30 Los Angeles Clippers    San Antonio Spurs       106,101
+22.12. 17:00 Miami Heat              Los Angeles Lakers      115,107
+22.12. 16:30 Brooklyn Nets           Golden State Warriors   101,117
+22.12. 16:30 New York Knicks         Orlando Magic           106,95
+22.12. 16:00 Indiana Pacers          Boston Celtics          102,109
+21.12. 19:00 Portland Trail Blazers  Dallas Mavericks        95,96
+21.12. 18:00 Phoenix Suns            Houston Rockets         111,125
+21.12. 18:00 Utah Jazz               Sacramento Kings        93,94
+21.12. 17:00 Chicago Bulls           Washington Wizards      97,107
+21.12. 17:00 New Orleans Pelicans    Oklahoma City Thunder   110,121
+21.12. 16:30 Atlanta Hawks           Minnesota Timberwolves  84,92
+21.12. 16:30 Detroit Pistons         Memphis Grizzlies       86,98
+21.12. 16:00 Cleveland Cavaliers     Milwaukee Bucks         113,102
+20.12. 19:30 Golden State Warriors   Utah Jazz               104,74
+20.12. 19:30 Los Angeles Clippers    Denver Nuggets          119,102
+20.12. 19:30 Sacramento Kings        Portland Trail Blazers  126,121
+20.12. 17:00 Houston Rockets         San Antonio Spurs       100,102
+20.12. 17:00 Memphis Grizzlies       Boston Celtics          109,112
+                                                             (97,97)
+20.12. 17:00 Milwaukee Bucks         Cleveland Cavaliers     108,114
+                                                             (100,100)
+20.12. 16:30 Miami Heat              Orlando Magic           130,136
+                                                             (109,109)
+20.12. 16:30 New York Knicks         Indiana Pacers          118,111
+20.12. 16:30 Toronto Raptors         Brooklyn Nets           116,104
+20.12. 16:00 Charlotte Hornets       Los Angeles Lakers      117,113
+20.12. 16:00 Philadelphia 76ers      New Orleans Pelicans    93,108
+19.12. 18:00 Denver Nuggets          Dallas Mavericks        117,107
+19.12. 17:00 Chicago Bulls           Detroit Pistons         113,82
+19.12. 17:00 Minnesota Timberwolves  Phoenix Suns            115,108
+19.12. 17:00 Oklahoma City Thunder   Atlanta Hawks           108,110
+19.12. 16:00 Indiana Pacers          Washington Wizards      107,105
+18.12. 16:00 San Antonio Spurs       New Orleans Pelicans    113,100
+18.12. 15:00 Memphis Grizzlies       Utah Jazz               73,82
+18.12. 15:00 Miami Heat              Boston Celtics          95,105
+18.12. 15:00 Orlando Magic           Toronto Raptors         79,109
+18.12. 15:00 Philadelphia 76ers      Brooklyn Nets           108,107
+18.12. 13:00 Dallas Mavericks        Sacramento Kings        99,79
+18.12. 12:30 Washington Wizards      Los Angeles Clippers    117,110
+17.12. 19:30 Golden State Warriors   Portland Trail Blazers  135,90
+17.12. 18:00 Denver Nuggets          New York Knicks         127,114
+17.12. 17:00 Minnesota Timberwolves  Houston Rockets         109,111
+                                                             (95,95)
+17.12. 16:30 Atlanta Hawks           Charlotte Hornets       99,107
+17.12. 16:30 Cleveland Cavaliers     Los Angeles Lakers      119,108
+17.12. 16:00 Detroit Pistons         Indiana Pacers          90,105
+17.12. 14:00 Oklahoma City Thunder   Phoenix Suns            114,101
+16.12. 19:30 Utah Jazz               Dallas Mavericks        103,100
+16.12. 17:00 Chicago Bulls           Milwaukee Bucks         69,95
+16.12. 17:00 Houston Rockets         New Orleans Pelicans    122,100
+16.12. 17:00 Memphis Grizzlies       Sacramento Kings        92,96
+16.12. 17:00 Miami Heat              Los Angeles Clippers    98,102
+16.12. 17:00 Philadelphia 76ers      Los Angeles Lakers      89,100
+16.12. 16:30 Boston Celtics          Charlotte Hornets       96,88
+16.12. 16:30 Toronto Raptors         Atlanta Hawks           121,125
+16.12. 16:00 Orlando Magic           Brooklyn Nets           118,111
+16.12. 16:00 Washington Wizards      Detroit Pistons         122,108
+15.12. 19:30 Golden State Warriors   New York Knicks         103,90
+15.12. 18:00 Denver Nuggets          Portland Trail Blazers  132,120
+15.12. 18:00 Phoenix Suns            San Antonio Spurs       92,107
+15.12. 17:00 Milwaukee Bucks         Chicago Bulls           108,97
+15.12. 17:00 New Orleans Pelicans    Indiana Pacers          102,95
+14.12. 18:30 San Antonio Spurs       Boston Celtics          108,101
+14.12. 18:00 Utah Jazz               Oklahoma City Thunder   109,89
+14.12. 17:30 Dallas Mavericks        Detroit Pistons         85,95
+14.12. 17:00 Houston Rockets         Sacramento Kings        132,98
+14.12. 17:00 Memphis Grizzlies       Cleveland Cavaliers     93,85
+14.12. 16:30 Brooklyn Nets           Los Angeles Lakers      107,97
+14.12. 16:00 Miami Heat              Indiana Pacers          95,89
+14.12. 16:00 Orlando Magic           Los Angeles Clippers    108,113
+14.12. 16:00 Philadelphia 76ers      Toronto Raptors         114,123
+14.12. 16:00 Washington Wizards      Charlotte Hornets       109,106
+13.12. 19:30 Portland Trail Blazers  Oklahoma City Thunder   114,95
+13.12. 18:00 Phoenix Suns            New York Knicks         113,111
+                                                             (101,101)
+13.12. 17:00 Chicago Bulls           Minnesota Timberwolves  94,99
+13.12. 17:00 New Orleans Pelicans    Golden State Warriors   109,113
+13.12. 16:30 Atlanta Hawks           Orlando Magic           120,131
+13.12. 16:00 Cleveland Cavaliers     Memphis Grizzlies       103,86
+12.12. 19:30 Los Angeles Clippers    Portland Trail Blazers  121,120
+12.12. 19:30 Sacramento Kings        Los Angeles Lakers      116,92
+12.12. 17:30 Dallas Mavericks        Denver Nuggets          112,92
+12.12. 17:00 Houston Rockets         Brooklyn Nets           122,118
+12.12. 16:30 Miami Heat              Washington Wizards      112,101
+12.12. 16:30 Toronto Raptors         Milwaukee Bucks         122,100
+12.12. 16:00 Indiana Pacers          Charlotte Hornets       110,94
+11.12. 18:30 Los Angeles Lakers      New York Knicks         112,118
+11.12. 17:30 Phoenix Suns            New Orleans Pelicans    119,120
+                                                             (110,110)
+11.12. 16:00 Minnesota Timberwolves  Golden State Warriors   108,116
+11.12. 16:00 Oklahoma City Thunder   Boston Celtics          99,96
+11.12. 15:00 Detroit Pistons         Philadelphia 76ers      79,97
+10.12. 19:30 Los Angeles Clippers    New Orleans Pelicans    133,105
+10.12. 18:00 Utah Jazz               Sacramento Kings        104,84
+10.12. 17:30 San Antonio Spurs       Brooklyn Nets           130,101
+10.12. 17:00 Chicago Bulls           Miami Heat              105,100
+10.12. 17:00 Houston Rockets         Dallas Mavericks        109,87
+10.12. 17:00 Memphis Grizzlies       Golden State Warriors   110,89
+10.12. 16:30 Cleveland Cavaliers     Charlotte Hornets       116,105
+10.12. 16:00 Indiana Pacers          Portland Trail Blazers  118,111
+10.12. 16:00 Orlando Magic           Denver Nuggets          113,121
+10.12. 16:00 Washington Wizards      Milwaukee Bucks         110,105
+09.12. 19:30 Los Angeles Lakers      Phoenix Suns            115,119
+09.12. 19:30 Sacramento Kings        New York Knicks         100,103
+09.12. 17:30 Dallas Mavericks        Indiana Pacers          111,103
+09.12. 17:00 Milwaukee Bucks         Atlanta Hawks           110,114
+09.12. 17:00 Minnesota Timberwolves  Detroit Pistons         90,117
+09.12. 17:00 Oklahoma City Thunder   Houston Rockets         99,102
+09.12. 16:30 Boston Celtics          Toronto Raptors         94,101
+09.12. 16:30 Cleveland Cavaliers     Miami Heat              114,84
+09.12. 16:00 Charlotte Hornets       Orlando Magic           109,88
+08.12. 18:30 Chicago Bulls           San Antonio Spurs       95,91
+08.12. 18:00 Utah Jazz               Golden State Warriors   99,106
+08.12. 17:00 Memphis Grizzlies       Portland Trail Blazers  88,86
+08.12. 17:00 New Orleans Pelicans    Philadelphia 76ers      88,99
+08.12. 16:00 Toronto Raptors         Minnesota Timberwolves  124,110
+08.12. 16:00 Washington Wizards      Denver Nuggets          92,85
+07.12. 19:30 Los Angeles Clippers    Golden State Warriors   98,115
+07.12. 18:00 Phoenix Suns            Indiana Pacers          94,109
+07.12. 17:30 Dallas Mavericks        Sacramento Kings        89,120
+07.12. 17:00 Houston Rockets         Los Angeles Lakers      134,95
+07.12. 17:00 Milwaukee Bucks         Portland Trail Blazers  115,107
+07.12. 17:00 New York Knicks         Cleveland Cavaliers     94,126
+07.12. 16:30 Atlanta Hawks           Miami Heat              103,95
+07.12. 16:30 Brooklyn Nets           Denver Nuggets          116,111
+07.12. 16:00 Charlotte Hornets       Detroit Pistons         87,77
+07.12. 16:00 Orlando Magic           Boston Celtics          87,117
+06.12. 18:00 Utah Jazz               Phoenix Suns            112,105
+06.12. 17:00 Memphis Grizzlies       Philadelphia 76ers      96,91
+06.12. 17:00 Minnesota Timberwolves  San Antonio Spurs       91,105
+06.12. 16:30 Detroit Pistons         Chicago Bulls           102,91
+06.12. 16:30 Miami Heat              New York Knicks         103,114
+06.12. 16:00 Washington Wizards      Orlando Magic           116,124
+05.12. 19:30 Golden State Warriors   Indiana Pacers          142,106
+05.12. 19:30 Los Angeles Lakers      Utah Jazz               101,107
+05.12. 17:30 Dallas Mavericks        Charlotte Hornets       101,109
+05.12. 17:00 Chicago Bulls           Portland Trail Blazers  110,112
+05.12. 17:00 Houston Rockets         Boston Celtics          107,106
+05.12. 17:00 Milwaukee Bucks         San Antonio Spurs       96,97
+05.12. 17:00 New Orleans Pelicans    Memphis Grizzlies       108,110
+                                                             (94,94)
+05.12. 16:30 Atlanta Hawks           Oklahoma City Thunder   99,102
+05.12. 16:30 Brooklyn Nets           Washington Wizards      113,118
+05.12. 16:30 Toronto Raptors         Cleveland Cavaliers     112,116
+05.12. 16:00 Philadelphia 76ers      Denver Nuggets          98,106
+04.12. 18:30 Los Angeles Clippers    Indiana Pacers          102,111
+04.12. 16:30 New York Knicks         Sacramento Kings        106,98
+04.12. 16:00 Oklahoma City Thunder   New Orleans Pelicans    101,92
+04.12. 15:00 Detroit Pistons         Orlando Magic           92,98
+03.12. 19:30 Golden State Warriors   Phoenix Suns            138,109
+03.12. 19:00 Portland Trail Blazers  Miami Heat              99,92
+03.12. 18:00 Utah Jazz               Denver Nuggets          105,98
+03.12. 17:30 Dallas Mavericks        Chicago Bulls           107,82
+03.12. 17:00 Memphis Grizzlies       Los Angeles Lakers      103,100
+03.12. 16:30 Philadelphia 76ers      Boston Celtics          106,107
+03.12. 16:30 Toronto Raptors         Atlanta Hawks           128,84
+03.12. 16:00 Charlotte Hornets       Minnesota Timberwolves  120,125
+                                                             (106,106)
+03.12. 14:00 Milwaukee Bucks         Brooklyn Nets           112,103
+02.12. 19:30 Denver Nuggets          Houston Rockets         110,128
+02.12. 17:30 San Antonio Spurs       Washington Wizards      107,105
+02.12. 17:00 Atlanta Hawks           Detroit Pistons         85,121
+02.12. 17:00 Chicago Bulls           Cleveland Cavaliers     111,105
+02.12. 17:00 New Orleans Pelicans    Los Angeles Clippers    96,114
+02.12. 16:30 Boston Celtics          Sacramento Kings        97,92
+02.12. 16:30 New York Knicks         Minnesota Timberwolves  118,114
+02.12. 16:30 Toronto Raptors         Los Angeles Lakers      113,80
+02.12. 16:00 Philadelphia 76ers      Orlando Magic           88,105
+01.12. 19:30 Golden State Warriors   Houston Rockets         127,132
+                                                             (113,113)
+01.12. 18:00 Utah Jazz               Miami Heat              110,111
+01.12. 17:00 Cleveland Cavaliers     Los Angeles Clippers    94,113
+01.12. 17:00 Memphis Grizzlies       Orlando Magic           95,94
+01.12. 16:30 Brooklyn Nets           Milwaukee Bucks         93,111
+01.12. 16:00 Charlotte Hornets       Dallas Mavericks        97,87
+30.11. 19:00 Portland Trail Blazers  Indiana Pacers          131,109
+30.11. 18:00 Denver Nuggets          Miami Heat              98,106
+30.11. 18:00 Phoenix Suns            Atlanta Hawks           109,107
+30.11. 17:30 Dallas Mavericks        San Antonio Spurs       87,94
+30.11. 17:00 Chicago Bulls           Los Angeles Lakers      90,96
+30.11. 17:00 Minnesota Timberwolves  New York Knicks         104,106
+30.11. 17:00 Oklahoma City Thunder   Washington Wizards      126,115
+                                                             (105,105)
+30.11. 16:30 Boston Celtics          Detroit Pistons         114,121
+30.11. 16:30 Toronto Raptors         Memphis Grizzlies       120,105
+29.11. 18:00 Utah Jazz               Houston Rockets         120,101
+29.11. 17:30 San Antonio Spurs       Orlando Magic           83,95
+29.11. 17:00 Milwaukee Bucks         Cleveland Cavaliers     118,101
+29.11. 17:00 New Orleans Pelicans    Los Angeles Lakers      105,88
+29.11. 16:30 Brooklyn Nets           Los Angeles Clippers    127,122
+                                                             (107,107)
+29.11. 16:00 Charlotte Hornets       Detroit Pistons         89,112
+28.11. 19:30 Golden State Warriors   Atlanta Hawks           105,100
+28.11. 17:00 Memphis Grizzlies       Charlotte Hornets       85,104
+28.11. 17:00 Minnesota Timberwolves  Utah Jazz               103,112
+28.11. 16:30 Miami Heat              Boston Celtics          104,112
+28.11. 16:30 New York Knicks         Oklahoma City Thunder   103,112
+28.11. 16:30 Toronto Raptors         Philadelphia 76ers      122,95
+28.11. 16:00 Washington Wizards      Sacramento Kings        101,95
+                                                             (92,92)
+27.11. 18:30 Los Angeles Lakers      Atlanta Hawks           109,94
+27.11. 18:00 Portland Trail Blazers  Houston Rockets         114,130
+27.11. 16:00 Dallas Mavericks        New Orleans Pelicans    91,81
+27.11. 15:00 Brooklyn Nets           Sacramento Kings        105,122
+27.11. 15:00 Indiana Pacers          Los Angeles Clippers    91,70
+27.11. 15:00 Orlando Magic           Milwaukee Bucks         96,104
+27.11. 12:30 Phoenix Suns            Denver Nuggets          114,120
+27.11. 10:00 Philadelphia 76ers      Cleveland Cavaliers     108,112
+26.11. 19:30 Golden State Warriors   Minnesota Timberwolves  115,102
+26.11. 17:00 Miami Heat              Memphis Grizzlies       107,110
+26.11. 17:00 Oklahoma City Thunder   Detroit Pistons         106,88
+26.11. 16:00 Charlotte Hornets       New York Knicks         107,102
+26.11. 16:00 Washington Wizards      San Antonio Spurs       100,112
+25.11. 19:30 Los Angeles Lakers      Golden State Warriors   85,109
+25.11. 19:30 Sacramento Kings        Houston Rockets         104,117
+25.11. 19:00 Portland Trail Blazers  New Orleans Pelicans    119,104
+25.11. 18:00 Denver Nuggets          Oklahoma City Thunder   129,132
+                                                             (122,122)
+25.11. 18:00 Phoenix Suns            Minnesota Timberwolves  85,98
+25.11. 17:00 Indiana Pacers          Brooklyn Nets           118,97
+25.11. 17:00 Memphis Grizzlies       Miami Heat              81,90
+25.11. 17:00 Milwaukee Bucks         Toronto Raptors         99,105
+25.11. 17:00 Utah Jazz               Atlanta Hawks           95,68
+25.11. 16:30 Cleveland Cavaliers     Dallas Mavericks        128,90
+25.11. 16:30 Detroit Pistons         Los Angeles Clippers    108,97
+25.11. 16:30 New York Knicks         Charlotte Hornets       113,111
+                                                             (104,104)
+25.11. 16:30 Philadelphia 76ers      Chicago Bulls           89,105
+25.11. 16:00 Orlando Magic           Washington Wizards      91,94
+25.11. 10:00 Boston Celtics          San Antonio Spurs       103,109
+23.11. 19:30 Golden State Warriors   Los Angeles Lakers      149,106
+23.11. 19:30 Sacramento Kings        Oklahoma City Thunder   116,101
+23.11. 18:30 New Orleans Pelicans    Minnesota Timberwolves  117,96
+23.11. 18:00 Utah Jazz               Denver Nuggets          108,83
+23.11. 17:30 Dallas Mavericks        Los Angeles Clippers    104,124
+23.11. 17:00 Houston Rockets         Toronto Raptors         102,115
+23.11. 16:30 Brooklyn Nets           Boston Celtics          92,111
+23.11. 16:30 Detroit Pistons         Miami Heat              107,84
+23.11. 16:00 Charlotte Hornets       San Antonio Spurs       114,119
+23.11. 16:00 Cleveland Cavaliers     Portland Trail Blazers  137,125
+23.11. 16:00 Indiana Pacers          Atlanta Hawks           85,96
+23.11. 16:00 Orlando Magic           Phoenix Suns            87,92
+23.11. 16:00 Philadelphia 76ers      Memphis Grizzlies       99,104
+                                                             (86,86)
+22.11. 19:30 Los Angeles Lakers      Oklahoma City Thunder   111,109
+22.11. 18:00 Denver Nuggets          Chicago Bulls           110,107
+22.11. 16:30 Atlanta Hawks           New Orleans Pelicans    94,112
+22.11. 16:30 New York Knicks         Portland Trail Blazers  107,103
+21.11. 19:30 Los Angeles Clippers    Toronto Raptors         123,115
+21.11. 17:30 San Antonio Spurs       Dallas Mavericks        96,91
+21.11. 17:00 Milwaukee Bucks         Orlando Magic           93,89
+21.11. 17:00 Minnesota Timberwolves  Boston Celtics          93,99
+21.11. 16:30 Detroit Pistons         Houston Rockets         96,99
+21.11. 16:00 Charlotte Hornets       Memphis Grizzlies       90,105
+21.11. 16:00 Indiana Pacers          Golden State Warriors   83,120
+21.11. 16:00 Philadelphia 76ers      Miami Heat              101,94
+21.11. 16:00 Washington Wizards      Phoenix Suns            106,101
+20.11. 18:30 Los Angeles Lakers      Chicago Bulls           110,118
+20.11. 18:00 Denver Nuggets          Utah Jazz               105,91
+20.11. 18:00 Sacramento Kings        Toronto Raptors         102,99
+20.11. 16:00 Oklahoma City Thunder   Indiana Pacers          111,115
+                                                             (103,103)
+20.11. 12:30 Brooklyn Nets           Portland Trail Blazers  109,129
+20.11. 09:00 New York Knicks         Atlanta Hawks           104,94
+19.11. 19:30 Los Angeles Clippers    Chicago Bulls           102,95
+19.11. 17:30 Milwaukee Bucks         Golden State Warriors   121,124
+19.11. 17:00 Memphis Grizzlies       Minnesota Timberwolves  93,71
+19.11. 16:30 Philadelphia 76ers      Phoenix Suns            120,105
+19.11. 16:00 Detroit Pistons         Boston Celtics          92,94
+19.11. 16:00 New Orleans Pelicans    Charlotte Hornets       121,116
+                                                             (108,108)
+19.11. 16:00 Orlando Magic           Dallas Mavericks        95,87
+19.11. 16:00 Washington Wizards      Miami Heat              111,114
+19.11. 14:00 Houston Rockets         Utah Jazz               111,102
+18.11. 19:30 Los Angeles Lakers      San Antonio Spurs       107,116
+18.11. 19:30 Sacramento Kings        Los Angeles Clippers    115,121
+18.11. 18:00 Denver Nuggets          Toronto Raptors         111,113
+                                                             (102,102)
+18.11. 17:30 Dallas Mavericks        Memphis Grizzlies       64,80
+18.11. 17:00 Boston Celtics          Golden State Warriors   88,104
+18.11. 17:00 New Orleans Pelicans    Portland Trail Blazers  113,101
+18.11. 17:00 Oklahoma City Thunder   Brooklyn Nets           124,105
+18.11. 16:30 Cleveland Cavaliers     Detroit Pistons         104,81
+18.11. 16:00 Charlotte Hornets       Atlanta Hawks           100,96
+18.11. 16:00 Indiana Pacers          Phoenix Suns            96,116
+17.11. 19:30 Utah Jazz               Chicago Bulls           77,85
+17.11. 17:00 Houston Rockets         Portland Trail Blazers  126,109
+17.11. 17:00 Minnesota Timberwolves  Philadelphia 76ers      110,86
+17.11. 16:30 Miami Heat              Milwaukee Bucks         96,73
+17.11. 16:00 Washington Wizards      New York Knicks         119,112
+16.11. 19:30 Los Angeles Clippers    Memphis Grizzlies       107,111
+16.11. 19:30 Sacramento Kings        San Antonio Spurs       105,110
+16.11. 18:00 Denver Nuggets          Phoenix Suns            120,104
+16.11. 17:00 Oklahoma City Thunder   Houston Rockets         105,103
+16.11. 17:00 Toronto Raptors         Golden State Warriors   121,127
+16.11. 16:30 Atlanta Hawks           Milwaukee Bucks         107,100
+16.11. 16:30 Boston Celtics          Dallas Mavericks        90,83
+16.11. 16:30 New York Knicks         Detroit Pistons         105,102
+16.11. 16:00 Indiana Pacers          Cleveland Cavaliers     103,93
+16.11. 16:00 Orlando Magic           New Orleans Pelicans    89,82
+16.11. 16:00 Philadelphia 76ers      Washington Wizards      109,102
+15.11. 19:30 Los Angeles Lakers      Brooklyn Nets           125,118
+15.11. 19:00 Portland Trail Blazers  Chicago Bulls           88,113
+15.11. 17:00 Minnesota Timberwolves  Charlotte Hornets       108,115
+15.11. 16:30 Miami Heat              Atlanta Hawks           90,93
+15.11. 16:00 Cleveland Cavaliers     Toronto Raptors         121,117
+14.11. 19:30 Los Angeles Clippers    Brooklyn Nets           127,95
+14.11. 18:00 Utah Jazz               Memphis Grizzlies       96,102
+14.11. 17:30 San Antonio Spurs       Miami Heat              94,90
+14.11. 17:00 Houston Rockets         Philadelphia 76ers      115,88
+14.11. 17:00 New Orleans Pelicans    Boston Celtics          106,105
+14.11. 16:30 Detroit Pistons         Oklahoma City Thunder   104,88
+14.11. 16:30 New York Knicks         Dallas Mavericks        93,77
+14.11. 16:00 Indiana Pacers          Orlando Magic           88,69
+13.11. 18:00 Portland Trail Blazers  Denver Nuggets          112,105
+13.11. 17:00 Golden State Warriors   Phoenix Suns            133,120
+13.11. 16:00 Minnesota Timberwolves  Los Angeles Lakers      125,99
+13.11. 16:00 Oklahoma City Thunder   Orlando Magic           117,119
+13.11. 12:30 Cleveland Cavaliers     Charlotte Hornets       100,93
+12.11. 18:00 Denver Nuggets          Detroit Pistons         95,106
+12.11. 18:00 Phoenix Suns            Brooklyn Nets           104,122
+12.11. 17:30 Milwaukee Bucks         Memphis Grizzlies       106,96
+12.11. 17:00 Chicago Bulls           Washington Wizards      106,95
+12.11. 17:00 Houston Rockets         San Antonio Spurs       100,106
+12.11. 17:00 Miami Heat              Utah Jazz               91,102
+12.11. 17:00 Minnesota Timberwolves  Los Angeles Clippers    105,119
+12.11. 16:30 Atlanta Hawks           Philadelphia 76ers      117,96
+12.11. 16:30 Toronto Raptors         New York Knicks         118,107
+12.11. 16:00 Indiana Pacers          Boston Celtics          99,105
+12.11. 16:00 New Orleans Pelicans    Los Angeles Lakers      99,126
+11.11. 19:00 Portland Trail Blazers  Sacramento Kings        122,120
+                                                             (106,106)
+11.11. 17:30 San Antonio Spurs       Detroit Pistons         96,86
+11.11. 17:00 Oklahoma City Thunder   Los Angeles Clippers    108,110
+11.11. 16:30 Boston Celtics          New York Knicks         115,87
+11.11. 16:00 Charlotte Hornets       Toronto Raptors         111,113
+11.11. 16:00 Orlando Magic           Utah Jazz               74,87
+11.11. 16:00 Philadelphia 76ers      Indiana Pacers          109,105
+                                                             (100,100)
+11.11. 16:00 Washington Wizards      Cleveland Cavaliers     94,105
+10.11. 19:30 Sacramento Kings        Los Angeles Lakers      91,101
+10.11. 18:00 Denver Nuggets          Golden State Warriors   101,125
+10.11. 17:00 Miami Heat              Chicago Bulls           95,98
+10.11. 17:00 Milwaukee Bucks         New Orleans Pelicans    106,112
+09.11. 19:30 Golden State Warriors   Dallas Mavericks        116,95
+09.11. 19:30 Los Angeles Clippers    Portland Trail Blazers  111,80
+09.11. 18:30 San Antonio Spurs       Houston Rockets         99,101
+09.11. 18:00 Phoenix Suns            Detroit Pistons         107,100
+09.11. 17:00 Oklahoma City Thunder   Toronto Raptors         102,112
+09.11. 16:30 Atlanta Hawks           Chicago Bulls           115,107
+09.11. 16:00 Charlotte Hornets       Utah Jazz               104,98
+09.11. 16:00 Indiana Pacers          Philadelphia 76ers      122,115
+                                                             (109,109)
+09.11. 16:00 New York Knicks         Brooklyn Nets           110,96
+09.11. 16:00 Orlando Magic           Minnesota Timberwolves  107,123
+09.11. 16:00 Washington Wizards      Boston Celtics          118,93
+08.11. 19:30 Los Angeles Lakers      Dallas Mavericks        97,109
+08.11. 19:30 Sacramento Kings        New Orleans Pelicans    102,94
+08.11. 19:00 Portland Trail Blazers  Phoenix Suns            124,121
+08.11. 17:00 Memphis Grizzlies       Denver Nuggets          108,107
+08.11. 16:30 Brooklyn Nets           Minnesota Timberwolves  119,110
+08.11. 16:00 Cleveland Cavaliers     Atlanta Hawks           106,110
+07.11. 19:30 Golden State Warriors   New Orleans Pelicans    116,106
+07.11. 19:30 Los Angeles Clippers    Detroit Pistons         114,82
+07.11. 17:00 Chicago Bulls           Orlando Magic           112,80
+07.11. 17:00 Oklahoma City Thunder   Miami Heat              97,85
+07.11. 16:00 Charlotte Hornets       Indiana Pacers          122,100
+07.11. 16:00 Philadelphia 76ers      Utah Jazz               84,109
+07.11. 16:00 Washington Wizards      Houston Rockets         106,114
+06.11. 18:30 Los Angeles Lakers      Phoenix Suns            119,108
+06.11. 16:30 Boston Celtics          Denver Nuggets          107,123
+06.11. 16:00 Dallas Mavericks        Milwaukee Bucks         86,75
+                                                             (74,74)
+06.11. 15:00 Toronto Raptors         Sacramento Kings        91,96
+06.11. 12:30 Memphis Grizzlies       Portland Trail Blazers  94,100
+06.11. 09:00 New York Knicks         Utah Jazz               109,114
+05.11. 17:30 San Antonio Spurs       Los Angeles Clippers    92,116
+05.11. 17:00 Milwaukee Bucks         Sacramento Kings        117,91
+05.11. 16:30 Atlanta Hawks           Houston Rockets         112,97
+05.11. 16:00 Detroit Pistons         Denver Nuggets          103,86
+05.11. 16:00 Indiana Pacers          Chicago Bulls           111,94
+05.11. 16:00 Orlando Magic           Washington Wizards      88,86
+05.11. 16:00 Philadelphia 76ers      Cleveland Cavaliers     101,102
+05.11. 15:00 Oklahoma City Thunder   Minnesota Timberwolves  112,92
+04.11. 19:30 Los Angeles Lakers      Golden State Warriors   117,97
+04.11. 18:00 Utah Jazz               San Antonio Spurs       86,100
+04.11. 17:30 Dallas Mavericks        Portland Trail Blazers  95,105
+04.11. 17:00 Chicago Bulls           New York Knicks         104,117
+04.11. 17:00 Memphis Grizzlies       Los Angeles Clippers    88,99
+04.11. 17:00 New Orleans Pelicans    Phoenix Suns            111,112
+                                                             (102,102)
+04.11. 16:30 Brooklyn Nets           Charlotte Hornets       95,99
+04.11. 16:30 Toronto Raptors         Miami Heat              96,87
+04.11. 16:00 Washington Wizards      Atlanta Hawks           95,92
+03.11. 19:30 Golden State Warriors   Oklahoma City Thunder   122,96
+03.11. 17:00 Cleveland Cavaliers     Boston Celtics          128,122
+03.11. 17:00 Milwaukee Bucks         Indiana Pacers          125,107
+03.11. 17:00 Minnesota Timberwolves  Denver Nuggets          99,102
+03.11. 16:00 Orlando Magic           Sacramento Kings        102,94
+02.11. 19:30 Los Angeles Clippers    Oklahoma City Thunder   83,85
+02.11. 19:00 Phoenix Suns            Portland Trail Blazers  118,115
+                                                             (103,103)
+02.11. 18:00 Utah Jazz               Dallas Mavericks        97,81
+02.11. 17:00 Boston Celtics          Chicago Bulls           107,100
+02.11. 17:00 Memphis Grizzlies       New Orleans Pelicans    89,83
+                                                             (75,75)
+02.11. 16:30 Atlanta Hawks           Los Angeles Lakers      116,123
+02.11. 16:30 Brooklyn Nets           Detroit Pistons         109,101
+02.11. 16:30 New York Knicks         Houston Rockets         99,118
+02.11. 16:00 Charlotte Hornets       Philadelphia 76ers      109,93
+02.11. 16:00 Washington Wizards      Toronto Raptors         103,113
+01.11. 19:00 Portland Trail Blazers  Golden State Warriors   104,127
+01.11. 17:30 San Antonio Spurs       Utah Jazz               91,106
+01.11. 17:00 Minnesota Timberwolves  Memphis Grizzlies       116,80
+01.11. 17:00 New Orleans Pelicans    Milwaukee Bucks         113,117
+01.11. 16:30 Detroit Pistons         New York Knicks         102,89
+01.11. 16:30 Miami Heat              Sacramento Kings        108,96
+                                                             (91,91)
+01.11. 16:00 Indiana Pacers          Los Angeles Lakers      115,108
+01.11. 16:00 Philadelphia 76ers      Orlando Magic           101,103
+01.11. 15:00 Cleveland Cavaliers     Houston Rockets         128,120
+31.10. 19:30 Los Angeles Clippers    Phoenix Suns            116,98
+31.10. 16:30 Atlanta Hawks           Sacramento Kings        106,95
+31.10. 16:30 Brooklyn Nets           Chicago Bulls           88,118
+31.10. 16:30 Toronto Raptors         Denver Nuggets          105,102
+30.10. 17:00 Houston Rockets         Dallas Mavericks        93,92
+30.10. 17:00 Memphis Grizzlies       Washington Wizards      112,103
+                                                             (100,100)
+30.10. 16:00 Oklahoma City Thunder   Los Angeles Lakers      113,96
+30.10. 15:00 Detroit Pistons         Milwaukee Bucks         98,83
+30.10. 15:00 Miami Heat              San Antonio Spurs       99,106
+30.10. 15:00 Phoenix Suns            Golden State Warriors   100,106
+30.10. 13:30 Los Angeles Clippers    Utah Jazz               88,75
+29.10. 19:30 Sacramento Kings        Minnesota Timberwolves  106,103
+29.10. 18:00 Chicago Bulls           Indiana Pacers          118,101
+29.10. 18:00 Denver Nuggets          Portland Trail Blazers  113,115
+                                                             (104,104)
+29.10. 18:00 Milwaukee Bucks         Brooklyn Nets           110,108
+29.10. 18:00 San Antonio Spurs       New Orleans Pelicans    98,79
+29.10. 16:30 Cleveland Cavaliers     Orlando Magic           105,99
+29.10. 16:30 New York Knicks         Memphis Grizzlies       111,104
+29.10. 16:00 Charlotte Hornets       Boston Celtics          98,104
+29.10. 09:30 Philadelphia 76ers      Atlanta Hawks           72,104
+28.10. 18:30 New Orleans Pelicans    Golden State Warriors   114,122
+28.10. 18:00 Utah Jazz               Los Angeles Lakers      96,89
+28.10. 17:30 Dallas Mavericks        Houston Rockets         98,106
+28.10. 17:00 Miami Heat              Charlotte Hornets       91,97
+28.10. 17:00 Oklahoma City Thunder   Phoenix Suns            113,110
+                                                             (102,102)
+28.10. 16:30 Brooklyn Nets           Indiana Pacers          103,94
+28.10. 16:30 Detroit Pistons         Orlando Magic           108,82
+28.10. 16:00 Toronto Raptors         Cleveland Cavaliers     91,94
+27.10. 19:30 Portland Trail Blazers  Los Angeles Clippers    106,114
+27.10. 19:30 Sacramento Kings        San Antonio Spurs       94,102
+27.10. 17:00 Chicago Bulls           Boston Celtics          105,99
+27.10. 16:30 Atlanta Hawks           Washington Wizards      114,99
+26.10. 19:30 Los Angeles Lakers      Houston Rockets         120,114
+26.10. 19:00 Phoenix Suns            Sacramento Kings        94,113
+26.10. 17:00 Memphis Grizzlies       Minnesota Timberwolves  102,98
+26.10. 17:00 Milwaukee Bucks         Charlotte Hornets       96,107
+26.10. 17:00 New Orleans Pelicans    Denver Nuggets          102,107
+26.10. 17:00 Philadelphia 76ers      Oklahoma City Thunder   97,103
+26.10. 16:30 Boston Celtics          Brooklyn Nets           122,117
+26.10. 16:30 Toronto Raptors         Detroit Pistons         109,91
+26.10. 16:00 Indiana Pacers          Dallas Mavericks        130,121
+                                                             (115,115)
+26.10. 16:00 Orlando Magic           Miami Heat              96,108
+25.10. 19:30 Golden State Warriors   San Antonio Spurs       100,129
+25.10. 19:00 Portland Trail Blazers  Utah Jazz               113,104
+25.10. 16:30 Cleveland Cavaliers     New York Knicks         117,88

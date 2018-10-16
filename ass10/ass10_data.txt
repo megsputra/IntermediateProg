@@ -1,0 +1,18 @@
+rectangle 7 4
+square 7
+parallelogram 6 4 3
+rhombus 7 4
+rectangle 6 4
+square 6
+parallelogram 6 4 2
+rhombus 7 3
+rectangle 5 4
+square 6
+parallelogram 6 4 3
+rhombus 9 5
+rhombus 10 3
+rectangle 19 10
+square 8
+parallelogram 7 5 3 
+rhombus 9 1
+rectangle 11 2

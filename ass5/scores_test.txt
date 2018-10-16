@@ -1,0 +1,17 @@
+06.02. 19:30 Sacramento Kings        Chicago Bulls           107,112
+06.02. 18:30 Memphis Grizzlies       San Antonio Spurs       89,74
+06.02. 18:00 Denver Nuggets          Dallas Mavericks        110,87
+06.02. 17:00 Minnesota Timberwolves  Miami Heat              113,115
+06.02. 17:00 New Orleans Pelicans    Phoenix Suns            111,106
+06.02. 16:30 Atlanta Hawks           Utah Jazz               95,120
+06.02. 16:30 Detroit Pistons         Philadelphia 76ers      113,96
+06.02. 16:30 Toronto Raptors         Los Angeles Clippers    118,109
+06.02. 16:00 Indiana Pacers          Oklahoma City Thunder   93,90
+06.02. 16:00 New York Knicks         Los Angeles Lakers      107,121
+06.02. 16:00 Washington Wizards      Cleveland Cavaliers     135,140
+                                                             (120,120)                                                             
+05.02. 12:00 Oklahoma City Thunder   Portland Trail Blazers  105,99
+05.02. 11:00 Boston Celtics          Los Angeles Clippers    107,102
+05.02. 09:00 Brooklyn Nets           Toronto Raptors         95,103
+04.02. 19:30 Sacramento Kings        Golden State Warriors   109,106
+                                                             (98,98)

@@ -1,0 +1,7 @@
+Number of A's = 5
+Number of B's = 21
+Number of C's = 19
+Number of D's = 4
+Number of F's = 1
+Average percent = 78.9
+Maximm points = 397
